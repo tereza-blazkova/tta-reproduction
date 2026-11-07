@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# competition data: never commit (see data/README.md); the frozen folds are the exception
+data/raw/
+data/derived/
+results/
+figures/input/
+figures/output/
+sheets/
